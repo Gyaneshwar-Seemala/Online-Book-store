@@ -1,0 +1,5 @@
+<frameset cols="30% 30% 30%">
+        <frame src="Login.html" name="loginFrame">
+        <frame src="Registration.html" name="registrationFrame">
+        <frame src="Catalog.html" name="catalogFrame">
+    </frameset>
